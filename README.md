@@ -1,23 +1,32 @@
-# Hi there, I'm Ankit Thakur 
+<div align="center">
 
-🌼 AI/ML Engineer | Research Enthusiast | Open Source Contributor | Data Science Explorer
+# ✿ Hi, I'm Ankit Thakur ✿
 
-I'm a third-year Information Technology Engineering student specializing in Machine Learning and Data Analytics, passionate about building intelligent systems that solve real-world problems. My interests span Artificial Intelligence, Machine Learning, Computer Vision, NLP, Multimodal AI, Data Science, and AI Research.
+### Research-driven AI Engineer • Machine Learning Enthusiast • Open Source Contributor
 
-I enjoy taking ideas from research papers and transforming them into practical, scalable applications. Whether it's building multimodal deepfake detection systems, retrieval-augmented generation pipelines, image enhancement models, or intelligent document processing solutions, I love exploring how AI can create meaningful impact.
+Building intelligent systems where research meets real-world impact.
 
-Currently, I'm exploring:
-- Computer Vision and Image Processing
-- Large Language Models and RAG Systems
-- Multimodal AI
-- Data Science and Predictive Analytics
-- AI for Healthcare and Space Applications
-- Open Source Contributions
+I enjoy transforming ideas into practical AI solutions through curiosity, mathematics, and continuous learning.
+
+</div>
 
 ---
 
-## Research Interests
+# ✿ About Me
 
+I'm a third-year B.Tech student in Information Technology Engineering specializing in Machine Learning and Data Analytics.
+
+My interests span Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, Data Science, Multimodal AI, and Generative AI. I enjoy reading research papers, experimenting with new ideas, and building intelligent systems that solve meaningful real-world problems.
+
+I believe the best technology comes from combining strong fundamentals with continuous curiosity, practical experimentation, and collaboration.
+
+---
+
+<div align="center">
+
+## ───── Research Interests ─────
+
+</div>
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
@@ -26,49 +35,181 @@ Currently, I'm exploring:
 - Multimodal AI
 - Image Processing
 - Remote Sensing
-- Generative AI
 - Data Science
+- Generative AI
 
 ---
 
-## Tech Stack
+<div align="center">
+
+## ───── Technical Stack ─────
+
+</div>
 
 ### Languages
 Python • C++ • Java • SQL • C
 
-### AI & Data
-PyTorch • TensorFlow • Scikit-learn • OpenCV • Pandas • NumPy • Matplotlib • XGBoost • FastAPI
+### AI & Machine Learning
+PyTorch • TensorFlow • Scikit-learn • OpenCV • Hugging Face • FastAPI
 
-### LLM & GenAI
-Gemini API • Hugging Face • Vector Embeddings • Qdrant • Prompt Engineering • RAG
+### Data Science
+NumPy • Pandas • Matplotlib • XGBoost • Statistical Modelling
 
-### Tools
+### LLM & AI
+Gemini API • OpenAI API • Vector Embeddings • RAG • Prompt Engineering • Qdrant
+
+### Databases
+MySQL • MongoDB • PostgreSQL
+
+### Developer Tools
 Git • GitHub • Linux • VS Code • Jupyter Notebook • Google Colab • Kaggle
 
 ---
 
-## What You'll Find Here
+<div align="center">
 
-- AI and Machine Learning Projects
-- Research Implementations
-- Computer Vision Applications
-- NLP and LLM Experiments
-- Open Source Contributions
-- Data Science Projects
-- Learning Resources
+## ───── Featured Projects ─────
 
----
+</div>
 
-## Current Focus
+### Reverse RAG Hallucination Firewall
+Developed an evidence-based Reverse RAG framework for detecting and validating hallucinated LLM responses using semantic retrieval and citation verification.
 
-Building AI systems that bridge research and real-world applications while continuously learning, contributing to open source, and exploring emerging technologies.
+**Tech:** Python • FastAPI • Gemini API • Qdrant • Vector Embeddings
 
 ---
 
-### Let's Connect
+### Real-Time Audio Visual Deepfake Detection
+Built a low-latency multimodal framework combining video, audio, and lip-sync analysis for real-time deepfake detection.
 
-• LinkedIn- https://www.linkedin.com/in/ankit-thakur-179a23237/
-• Email- at0968643@gmail.com
-• Leetcode profile- https://leetcode.com/u/anbeforeaconsonant/
-• Codeforces profile- https://codeforces.com/profile/neuralimprint
-• Kaggle account- https://www.kaggle.com/ankitthakur1102
+**Tech:** Python • PyTorch • OpenCV • EfficientNetV2-S • AASIST • SyncNet
+
+---
+
+### AI Image Super Resolution
+Developed a lightweight image enhancement framework using Knowledge Distillation and achieved high-quality reconstruction.
+
+**Tech:** PyTorch • Restormer • Residual U-Net
+
+---
+
+### Intelligent OCR Engine
+Built an OCR pipeline for handwritten document understanding with keyword-based information retrieval and hybrid database indexing.
+
+**Tech:** PaddleOCR • OpenCV • MongoDB • MySQL
+
+---
+
+### Cloud Cluster Prediction
+Developed a deep learning framework for cloud movement prediction using satellite imagery for weather forecasting.
+
+**Tech:** TensorFlow • Keras • Remote Sensing
+
+---
+
+<div align="center">
+
+## ───── Experience ─────
+
+</div>
+
+### CSIR – National Physical Laboratory
+Research Intern
+
+Working on visibility enhancement and image dehazing by improving Dark Channel Prior and Gray Channel methodologies through experimental research.
+
+---
+
+### Defence Research & Development Organisation
+Research Intern
+
+Optimized handwritten OCR pipelines and developed intelligent document retrieval systems using hybrid databases.
+
+---
+
+### Intel Unnati
+AI Research Intern
+
+Worked on image super-resolution using teacher-student knowledge distillation for lightweight image reconstruction.
+
+---
+
+### Bharat Heavy Electricals Limited
+Machine Learning Intern
+
+Developed predictive maintenance models using industrial sensor data and built analytical dashboards for equipment monitoring.
+
+---
+
+### Ganpat University
+AI Research Intern
+
+Designed a real-time AI-based intrusion detection and facial recognition system using open-set recognition.
+
+---
+
+# Open Source
+
+I actively contribute to open-source projects, enjoy collaborating with developers, and continuously explore new technologies through hands-on development and research.
+
+---
+
+# Current Focus
+
+- Multimodal AI
+- Large Language Models
+- Computer Vision
+- AI Research
+- Open Source
+- Data Science
+- Intelligent Retrieval Systems
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeuralImprint&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralImprint&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NeuralImprint&theme=tokyonight&hide_border=true" />
+</p>
+</p>
+
+---
+
+<div align="center">
+
+## ───── 🌸 Let's Connect 🌸 ─────
+
+</div>
+
+LinkedIn
+
+GitHub
+
+LeetCode
+
+Kaggle
+
+Email
+
+Portfolio
+
+Always open to collaborating on AI research, open-source projects, and innovative ideas.
+
+---
+
+<div align="center">
+
+Research. Learn. Build. Share.
+
+</div>
