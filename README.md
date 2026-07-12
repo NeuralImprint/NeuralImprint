@@ -1,21 +1,21 @@
 <div align="center">
+
+
+</p>
+
+# ✿ Hi, I'm Ankit Thakur ✿
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Research+Driven+AI+Engineer;Machine+Learning+Enthusiast;Computer+Vision+%7C+NLP+%7C+GenAI;Open+Source+Contributor"/>
-
-</p>
-# ✿ Hi, I'm Ankit Thakur ✿
 
 ### Research-driven AI Engineer • Machine Learning Enthusiast • Open Source Contributor
 
 Building intelligent systems where research meets real-world impact.
 
 I enjoy transforming ideas into practical AI solutions through curiosity, mathematics, and continuous learning.
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NeuralImprint&theme=tokyonight&no-frame=true&margin-w=15"/> 
-
-</p>
+<!--<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NeuralImprint&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>-->
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeuralImprint&theme=tokyo-night&hide_border=true"/>
@@ -235,18 +235,16 @@ I actively contribute to open-source projects, enjoy collaborating with develope
 
 <p align="center">
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=NeuralImprint&theme=tokyonight&hide_border=true"/>
+</p>
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeuralImprint&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NeuralImprint&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralImprint&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NeuralImprint&theme=tokyonight&hide_border=true" />
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NeuralImprint&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -257,13 +255,13 @@ I actively contribute to open-source projects, enjoy collaborating with develope
 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINK](https://www.linkedin.com/in/ankit-thakur-179a23237/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-thakur-179a23237/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:at0968643@gmail.com)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)]([YOUR_LINK](https://leetcode.com/u/anbeforeaconsonant))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anbeforeaconsonant/)
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)]([YOUR_LINK](https://www.kaggle.com/ankitthakur1102))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ankitthakur1102)
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/NeuralImprint)
 
